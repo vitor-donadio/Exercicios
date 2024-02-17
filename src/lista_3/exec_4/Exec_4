@@ -1,0 +1,9 @@
+O ciclo TDD é o seguinte:
+
+1. Se escreve o teste que ira falhar
+2. Implementa a correção do teste
+3. Teste passando
+4. Refatoração do codigo
+
+O ciclo se repete pra cada nova funcionalidade.
+

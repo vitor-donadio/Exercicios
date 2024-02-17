@@ -1,0 +1,3 @@
+Protected: Todas as classes do pacote e as classes filhas tem acesso.
+
+Private: Somente a propria classe tem acesso.

@@ -1,0 +1,6 @@
+Encapsulamento é separar o programa em partes, o mais isolado possível
+e expor apenas uma interface pública para interagir com ele.
+A importância do encapsulamento é de que ele ajuda a garantir que o objeto funcione corretamente
+e evita que o seu estado seja alterado de forma não intencional ou inadequada por outras partes do programa.
+O encapsulamento também permite que o objeto seja modificado internamente
+sem afetar outras partes do programa que o utilizam.

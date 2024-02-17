@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec6de81-6872-4f82-b805-d0df8071444f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista_3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista_3/lista_3.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/veiculo_ex01_02_03java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/veiculo_ex01_02_03java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/veiculo_ex01_02_03java/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/veiculo_ex01_02_03java/Veiculo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AAl31Yd2T8Dnj6ZtKHGYKvLdmq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vbdon/Desktop/Java Faculdade/Trabalho Pratico",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\out\production" />
+      <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\out" />
+      <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\.idea" />
+      <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\src" />
+      <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FuncionarioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista_3.exec_5.FuncionarioTeste" />
+      <module name="Lista3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista_3.exec_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="veiculo_ex01_02_03java.Main" />
+      <module name="Lista3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FuncionarioTeste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec6de81-6872-4f82-b805-d0df8071444f" name="Changes" comment="" />
+      <created>1654460069747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654460069747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

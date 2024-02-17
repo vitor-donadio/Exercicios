@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec6de81-6872-4f82-b805-d0df8071444f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista_3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista_3/lista_3.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/veiculo_ex01_02_03java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/veiculo_ex01_02_03java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/veiculo_ex01_02_03java/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/veiculo_ex01_02_03java/Veiculo.java" afterDir="false" />
+    <list default="true" id="cec6de81-6872-4f82-b805-d0df8071444f" name="Changes" comment="veiculos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bancoomicron/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bancoomicron/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bancoomicron/carteira/CarteiraClientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bancoomicron/carteira/CarteiraClientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bancoomicron/carteira/CarteiraContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bancoomicron/carteira/CarteiraContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bancoomicron/carteira/IAuditoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bancoomicron/carteira/IAuditoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/vbdon/Desktop/Java Faculdade/Trabalho Pratico",
+    "last_opened_file_path": "C:/Users/vbdon/Desktop/Java Faculdade/Lista3",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -43,11 +44,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\src\lista_3" />
       <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\out\production" />
       <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\out" />
       <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\.idea" />
       <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3\src" />
-      <recent name="C:\Users\vbdon\Desktop\Java Faculdade\Lista3" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -86,6 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654460069747</updated>
     </task>
+    <task id="LOCAL-00001" summary="veiculos">
+      <created>1708198277761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708198277761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="veiculos" />
+    <option name="LAST_COMMIT_MESSAGE" value="veiculos" />
   </component>
 </project>
